@@ -1,0 +1,12 @@
+{
+  "id": "3336",
+  "parent_exercise_id": "3335",
+  "name": "Variables Exercise 1",
+  "slug": "variables__variables/variables-question",
+  "sequence_num": 1,
+  "review_type": "manual",
+  "solution": null,
+  "content": "[\n  \"{\\\"type\\\":\\\"markdown\\\",\\\"value\\\":\\\"variables-question_key1\\\\n\\\\n\\\\nvariables-question_key2\\\\n\\\\n\\\\nvariables-question_key3\\\\n\\\\n\\\\nvariables-question_key4\\\\n1. variables-question_key5\\\\n2. variables-question_key6\\\\nvariables-question_key7\\\\n  \\\\n1. variables-question_key8\\\\n2. variables-question_key9\\\\n3. variables-question_key10\\\\n\\\"}\"\n]",
+  "submission_type": null,
+  "github_link": "https://github.com/navgurukul/newton/tree/master/variables/variables/variables-question.md"
+}
